@@ -1,11 +1,11 @@
 Quando o botão “Inscreva-se” é clicado, 
 o código adiciona a classe “right-panel-active” ao 
-elemento do contêiner, o que aciona uma transição CSS
+elemento do container, o que aciona uma transição CSS
 e animação para exibir o formulário de inscrição.
 
 Da mesma forma, quando o botão “Entrar” é clicado, 
 o código remove a classe “right-panel-active” do elemento 
-contêiner, fazendo com que o formulário de login seja exibido.
+container, fazendo com que o formulário de login seja exibido.
 
 Este código usa o addEventListenermétodo para escutar o 
 evento “click” nos botões e modifica a lista de classes 
